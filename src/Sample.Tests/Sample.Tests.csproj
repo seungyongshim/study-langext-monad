@@ -16,4 +16,7 @@
       <PrivateAssets>all</PrivateAssets>
     </PackageReference>
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Types\Interop.FSharp.fsproj" />
+  </ItemGroup>
 </Project>
