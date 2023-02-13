@@ -6,7 +6,7 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
   <ItemGroup>
-    <PackageReference Include="FluentAssertions" Version="5.10.3" />
+    <PackageReference Include="FluentAssertions" Version="6.10.0" />
     <PackageReference Include="LanguageExt.Core" Version="4.0.3" />
     <PackageReference Include="LanguageExt.Rx" Version="3.4.15" />
     <PackageReference Include="Microsoft.NET.Test.Sdk" Version="16.9.4" />
